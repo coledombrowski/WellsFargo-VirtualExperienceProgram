@@ -1,4 +1,4 @@
-# Wells Fargo Software Engineering Virtual Experience Program Project
+# Wells Fargo Software Engineering Virtual Experience Program Project Instructions
 
 Create a class for each entity in your data model (these should be placed in the entities directory). Respect the following when implementing your data model:
 
